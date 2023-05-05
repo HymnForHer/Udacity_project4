@@ -6,15 +6,14 @@
  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
  * Restarting with stat
  * Debugger is active!
- * Debugger PIN: 294-156-629
-192.168.142.1 - - [05/May/2023 15:25:08] "GET / HTTP/1.1" 200 -
-[2023-05-05 15:25:12,592] INFO in app: JSON payload:
+ * Debugger PIN: 205-259-186
+[2023-05-05 15:28:50,675] INFO in app: JSON payload:
 {'CHAS': {'0': 0}, 'RM': {'0': 6.575}, 'TAX': {'0': 296.0}, 'PTRATIO': {'0': 15.3}, 'B': {'0': 396.9}, 'LSTAT': {'0': 4.98}}
-[2023-05-05 15:25:12,607] INFO in app: Inference payload DataFrame:
+[2023-05-05 15:28:50,686] INFO in app: Inference payload DataFrame:
    CHAS     RM    TAX  PTRATIO      B  LSTAT
 0     0  6.575  296.0     15.3  396.9   4.98
-[2023-05-05 15:25:12,616] INFO in app: Scaling Payload:
+[2023-05-05 15:28:50,694] INFO in app: Scaling Payload:
    CHAS     RM    TAX  PTRATIO      B  LSTAT
 0     0  6.575  296.0     15.3  396.9   4.98
-[2023-05-05 15:25:12,628] INFO in app: output prediction: [20.35373177134412]
-172.17.0.1 - - [05/May/2023 15:25:12] "POST /predict HTTP/1.1" 200 -
+[2023-05-05 15:28:50,697] INFO in app: output prediction: [20.35373177134412]
+172.17.0.1 - - [05/May/2023 15:28:50] "POST /predict HTTP/1.1" 200 -
