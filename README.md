@@ -1,4 +1,4 @@
-[(https://app.circleci.com/pipelines/github/HymnForHer/Udacity_project4.svg?style=svg)](https://app.circleci.com/pipelines/github/HymnForHer/Udacity_project4)
+[![HymnForHer](https://circleci.com/gh/HymnForHer/Udacity_project4.svg?style=svg)](https://app.circleci.com/pipelines/github/HymnForHer/Udacity_project4)
 
 
 ## Project Overview
